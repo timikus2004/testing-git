@@ -13,6 +13,7 @@ def number():
     print("next commit")
     print("testing git pull on master")
     print("fixed some issues")
+    print("hotfix")
 
 
 
