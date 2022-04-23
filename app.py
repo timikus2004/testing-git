@@ -10,6 +10,7 @@ def number():
     print(f"{_var1}\n",f"{_var2}\n", f"{_var3}\n")
     print(os.environ)
     print("some issues added")
+    print("next commit")
 
 
 
