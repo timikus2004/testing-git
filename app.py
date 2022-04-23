@@ -9,7 +9,7 @@ def number():
     _var3 = os.getenv("ID")
     print(f"{_var1}\n",f"{_var2}\n", f"{_var3}\n")
     print(os.environ)
-    print("some issues")
+    print("some issues added")
 
 
 
