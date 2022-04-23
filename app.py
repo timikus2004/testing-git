@@ -11,6 +11,7 @@ def number():
     print(os.environ)
     print("some issues added")
     print("next commit")
+    print("testing git pull on master")
 
 
 
