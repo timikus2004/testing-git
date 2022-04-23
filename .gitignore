@@ -9,6 +9,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+bin/
 .Python
 build/
 develop-eggs/
@@ -40,7 +41,7 @@ pip-delete-this-directory.txt
 
 # pyenv
 .python-version
-
+pyvenv.cfg
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
@@ -58,6 +59,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pyvenv.cfg
 
 # Pyre type checker
 .pyre/
