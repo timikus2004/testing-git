@@ -11,6 +11,7 @@ def number():
     print(os.environ)
     print("some issues added")
     print("switch to first_branch")
+    print("testing git pull on first branch")
 
 
 
