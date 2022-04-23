@@ -10,13 +10,9 @@ def number():
     print(f"{_var1}\n",f"{_var2}\n", f"{_var3}\n")
     print(os.environ)
     print("some issues added")
-<<<<<<< HEAD
     print("next commit")
     print("testing git pull on master")
-=======
-    print("switch to first_branch")
-    print("testing git pull on first branch")
->>>>>>> first_branch
+
 
 
 
